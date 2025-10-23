@@ -70,7 +70,7 @@ We use a curated selection of lasts, developed to cover different aesthetic and 
 
 When designing your shoes in the **3D Designing Tool**, you’ll be prompted to select the last (if applicable). Some shoe models are compatible with multiple lasts, while others are designed specifically for one.
 
-#### Men’s Dress Shoe Lasts
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-23 a las 9.55.35.jpg" alt=""><figcaption></figcaption></figure>
 
 Our main lasts for men’s dress shoes are designed to capture distinct styles — from classic English round toes to modern chiselled profiles. Each one has its own character and fit:
 
@@ -85,8 +85,6 @@ It offers a generous fit and timeless proportions, ideal for classic Oxford or D
 
 \
 **Belgravia Last:** Our most distinctive and sophisticated last, combining a chisel toe, narrow waist, and cuban heel. Designed for a refined and elevated profile, emphasizing both style and precision in fit.
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-23 a las 9.55.35.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Heel Height Options
 
