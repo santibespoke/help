@@ -64,11 +64,29 @@ Then you should definitely look for our custom **BULK** and **RTW** **(Ready-to-
 
 ## **Shoe Lasts**
 
-At Bespoke Factory, we construct shoes on a wide variety of Last. Lasts are foot-shaped forms that provide shoemakers with a foundation for building a shoe. The last used during shoe assembly can affect the overall fit of a shoe, as well as the aesthetics and look of the shoe.
+At **Bespoke Factory**, every pair of shoes begins with a _last_ — a three-dimensional foot-shaped mold that defines the shoe’s structure, fit, and overall silhouette. The last determines not only how the shoe feels on the foot, but also how it looks — from the curve of the toe to the pitch of the heel.
 
-Some shoe styles can be assembled using different lasts, and others only with a specific one. For instance, a pair of Goodyear Welted Oxfords can be ordered using different shoe lasts, each one with its own unique characteristics.
+We use a curated selection of lasts, developed to cover different aesthetic and ergonomic preferences. The choice of last has a significant impact on the final result, especially in **men’s dress shoes**, where proportions, toe shapes, and visual balance are key to elegance and comfort.
 
-When selecting a shoe style on the 3D Designing Tool, you will be asked to choose the Last to be used, if it applies.
+When designing your shoes in the **3D Designing Tool**, you’ll be prompted to select the last (if applicable). Some shoe models are compatible with multiple lasts, while others are designed specifically for one.
+
+#### Men’s Dress Shoe Lasts
+
+Our main lasts for men’s dress shoes are designed to capture distinct styles — from classic English round toes to modern chiselled profiles. Each one has its own character and fit:
+
+**Zurigo Last:** A rounded toe for a traditional English look.\
+It offers a generous fit and timeless proportions, ideal for classic Oxford or Derby styles.
+
+\
+**Monti Last:** A versatile shape that balances tradition and modernity, featuring a slightly squared toe. Perfect for those seeking classic elegance with a subtle contemporary edge.
+
+\
+**Savile Last:** Refined and sleek, with a slight chisel toe. This last creates a streamlined silhouette, suitable for formal shoes with a modern aesthetic.
+
+\
+**Belgravia Last:** Our most distinctive and sophisticated last, combining a chisel toe, narrow waist, and cuban heel. Designed for a refined and elevated profile, emphasizing both style and precision in fit.
+
+<figure><img src="../.gitbook/assets/Captura de pantalla 2025-10-23 a las 9.55.35.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Heel Height Options
 
