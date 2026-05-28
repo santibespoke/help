@@ -1,14 +1,12 @@
 ---
-description: >-
-  Customized shoes and accessories with an average production time of 7 business
-  days
+description: Fast production og goodyear welted MTO shoes and accessories
 ---
 
 # Fastlane Production
 
 ## What is Fastlane?
 
-Fastlane is a custom production service for single MTO orders. It offers an average production time of **7 business days**. During peak season — **April to July** and **December** — production time may increase to **up to 10 business days**.
+Fastlane is a custom production service for single MTO orders. It offers an average production time of **7 business days**.&#x20;
 
 Fastlane items are partially pre-produced on our side and kept in stock in our warehouse to be finished after your order. That's the only reason we can offer such a fast turnaround time.
 
@@ -18,17 +16,11 @@ Fastlane is just faster than a Stadard MTO order, but both are virtually identic
 
 ### **Blazing Fast Production**
 
-Fastlane orders have an average production time of **7 business days** thanks to the availability of partially pre-produced stock in our warehouse. During peak season, production time may increase to **up to 10 business days**.
+Fastlane orders have an average production time of **7 business days** thanks to the availability of partially pre-produced stock in our warehouse.
 
-### **Fastlane production time**
+Fastlane orders are produced by hand, so turnaround times are always **averages**. The average production time for Fastlane orders is **7 business days**, but during peak season — April to July and December — production time may increase to up to **10 business days**.
 
-Fastlane orders are produced by hand, so turnaround times are always **averages**.
-
-The average production time for Fastlane orders is **7 business days**.
-
-During peak season — **April to July** and **December** — production time may increase to **up to 10 business days**.
-
-Some orders may take less time. Some may take more. That is normal in a handmade production process.
+Please, bear in mind that these figures are for reference. The estimated **production time** of any particular Fastlane order will be shown on the **order summary during the checkout**.
 
 ### **Private Label & Branding**
 
