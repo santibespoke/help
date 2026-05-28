@@ -7,8 +7,8 @@ We provide brands with a versatile and comprehensive private label production so
 * Using your own label, you will be able to produce with us from **one single unit** (Made-to-Order) to BULK orders (**small batches**).
 * Our default **MTO / BULK** styles catalog includes dozens of shoe styles and accessories, like Derby Shoes, Sneakers, Chelsea Boots, Slippers, Duffle Bags, Cigar Cases, etc.
 * Each of those base styles can be customized and ordered with a large amount of variables: shoe lasts, materials, sole units, etc. We estimate that +60 Billion different designs can be accomplished using our base offer.
-* We also also offer a **rapid** MTO production service called [FastLane](fast-lane.md). Fully private labeled Goodyear Welted shoes, handcrafted using our own partially pre-produced units in stock. Blazing fast production time (**6-8 days**), but limited customizing features.
-* Additionally, we now offer [**48h Rush**](48h-rush-production.md), the fastest private-label production service in our portfolio, delivering shoes in just 48 working hours. This service provides limited customization and uses pre-produced components, offering quick turnaround without compromising on quality.
+* We also also offer a **rapid** MTO production service called [FastLane](fast-lane.md). Fully private labeled Goodyear Welted shoes, handcrafted using our own partially pre-produced units in stock. Blazing fast production time (**6-10 business days**), but limited customizing features.
+* Additionally, we now offer [**48h Rush**](48h-rush-production.md) , the fastest private-label production service in our portfolio, delivering shoes in just 2-3 business days. This service provides limited customization and uses pre-produced components, offering quick turnaround without compromising on quality.
 * Besides the above, if you are looking to order **BULK (small batches)** to create your own Ready-to-Wear collections, we can also help you develop and produce your own custom styles, with custom shoe patterns, custom shoe lasts, custom materials, etc.
 
 Let us introduce first the [available ordering methods and production terms](./#production-methods) (MOQ, prices, turnaround) and then talk about which are [the available styles](./#available-styles) that you can order from us.
@@ -27,9 +27,9 @@ You can customize and submit single orders using your [3D Designing platform](..
 
 ### Fast Lane (Single Orders)
 
-‘FastLane’ is a rapid Made-to-Order production service for individual (single) MTO Goodyear Welted orders. **Blazing fast production time (6-8 days), but with a slightly limited number of customizing options.**
+‘FastLane’ is a rapid Made-to-Order production service for individual (single) MTO Goodyear Welted orders. **Blazing fast production time (6-10 business days), but with a slightly limited number of customizing options.**
 
-Shoe parts are partially pre-produced on our side. They are kept in-stock in our warehouse, and then finished after your order. Fully private labeled Made-to-Order Goodyear Welted shoes in just 6-8 days. Lear more about [Fastlane](fast-lane.md).
+Shoe parts are partially pre-produced on our side. They are kept in-stock in our warehouse, and then finished after your order. Fully private labeled Made-to-Order Goodyear Welted shoes in just 6-10 business days. Lear more about [Fastlane](fast-lane.md).
 
 #### How To Submit 'FastLane' orders?
 
