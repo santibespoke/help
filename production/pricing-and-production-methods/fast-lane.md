@@ -1,5 +1,5 @@
 ---
-description: Customized shoes and accessories in just 6-8 days
+description: Customized shoes and accessories in just 6-10 business days
 ---
 
 # Fastlane Production
