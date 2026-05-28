@@ -6,7 +6,7 @@ description: Customized shoes and accessories in just 6-8 days
 
 ## What is Fastlane?
 
-Fastlane is a 6-8 days custom production service for single MTO orders. **Blazing fast production time (6-8 days) and dozens of goodyear welted shoe styles, sneakers and other items to be customized with a wide range of materials, sole units, welt styles, shoe lasts, etc.**
+Fastlane is a custom production service for single MTO orders. **Blazing fast production time (6-10 business days) and dozens of goodyear welted shoe styles, sneakers and other items to be customized with a wide range of materials, sole units, welt styles, shoe lasts, etc.**
 
 Fastlane items are partially pre-produced on our side and kept in stock in our warehouse to be finished after your order. That's the only reason we can offer such a fast turnaround time.
 
@@ -16,7 +16,7 @@ Fastlane is just faster than a Stadard MTO order, but both are virtually identic
 
 ### **Blazing Fast Production**
 
-Fastlane orders can be produced in just 6-8 working days thanks to the availability of partially pre-produced stock in our warehouse.
+Fastlane orders can be produced in just 6-10 business days thanks to the availability of partially pre-produced stock in our warehouse.
 
 ### **Private Label & Branding**
 
@@ -112,8 +112,7 @@ Lastly, the "Pitched Heel," also known as the "Slanted Heel," introduces a subtl
 
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2023-09-28 a las 18.28.37.jpg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 ### Sizes and Widths
 
@@ -151,7 +150,7 @@ Only available on Fastlane orders, the new hand painted «Reverse Patina» grace
 
 Look for the Fastlane category on your MTO platform and submit your first order! Styles available for Fastlane production are dynamic, that is, they change over time based on the stock available.
 
-Stock is monitored in real-time to make sure all Fastlane orders are produced in just 6-8  days. Real-time stock quantity is displayed during designing and checkout processes for each particular style and size combination.&#x20;
+Stock is monitored in real-time to make sure all Fastlane orders are produced in just 6-10 business days. Real-time stock quantity is displayed during designing and checkout processes for each particular style and size combination.&#x20;
 
 {% embed url="https://i.gyazo.com/25394e28616b68bd780475373dc0f78a.gif" %}
 
@@ -195,7 +194,7 @@ Understandably, we can not accommodate other special designing requests on these
 
 All men's dress Fastlane shoes are handcrafted using Original Goodyear Welted construction.
 
-**What is the difference between a shoe ordered as Standard MTO (4 weeks) vs Fast Lane MTO (6-8 days)?**&#x20;
+**What is the difference between a shoe ordered as Standard MTO (4 weeks) vs Fast Lane MTO (6-10 business days)?**&#x20;
 
 There is none in terms of construction, quality and finishing. However, Fastlane orders are slightly limited in regards of customizing options, if you compare them with a standard MTO order.&#x20;
 
