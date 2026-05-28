@@ -50,9 +50,9 @@ You should have received a welcome email from your account manager with informat
 
 {% embed url="https://i.gyazo.com/3fccc93585ca0a714504778d1d3196be.gif" %}
 
-The 3D Designing Tool allows you to fully customize your products, bringing your unique brand vision to life.&#x20;
+The 3D Designing Tool allows you to fully customize your products, bringing your unique brand vision to life.
 
-To access the 3D Designing Tool, first log in to the [Admin Backoffice](broken-reference) and then select the [3D Designing Tool](admin-backoffice/designing-tools-and-galleries/3d-designing-tool.md) link on the main menu. This will load the design tool in admin mode, so you can start designing and launching your orders to production.
+To access the 3D Designing Tool, first log in to the [Admin Backoffice](/broken/pages/-Lap8n21rKL028NYseJC) and then select the [3D Designing Tool](admin-backoffice/designing-tools-and-galleries/3d-designing-tool.md) link on the main menu. This will load the design tool in admin mode, so you can start designing and launching your orders to production.
 
 Learn more about the 3D Designing Tool:
 
@@ -64,7 +64,7 @@ Learn more about the 3D Designing Tool:
 
 {% embed url="https://i.gyazo.com/a2482efc2e7d9b54a5904b1ed3bd9b8d.gif" %}
 
-The [Get Inspired](admin-backoffice/designing-tools-and-galleries/get-inspired-gallery.md) platform offers a curated collection of trending styles, materials, and base models to help spark your creativity.&#x20;
+The [Get Inspired](admin-backoffice/designing-tools-and-galleries/get-inspired-gallery.md) platform offers a curated collection of trending styles, materials, and base models to help spark your creativity.
 
 Access it through the control panel and explore popular designs and combinations. Use these as a starting point for your own creations or as inspiration for new ideas that align with your brand.
 
@@ -78,7 +78,7 @@ For more information about the Get Inspired gallery, please visit this link:
 
 <figure><img src=".gitbook/assets/Captura de pantalla 2025-03-14 a las 12.18.16.jpg" alt=""><figcaption></figcaption></figure>
 
-We offer three MTO (Made-to-Order) production methods for single-unit orders: **Standard MTO** (28-30 days), **Fastlane MTO** (6-8 days), and **Rush MTO** (2 days). These options give you flexibility in balancing speed and customization.
+We offer three MTO (Made-to-Order) production methods for single-unit orders: **Standard MTO** (28-30 days), **Fastlane MTO** (average 7 business days, and up to 10 business days during peak season), and **Rush MTO** (2 days). These options give you flexibility in balancing speed and customization.
 
 On the 3D Design Tool, the Rush MTO and Fastlane MTO styles have their own category. The rest of the styles are Standard MTO.
 
@@ -100,11 +100,11 @@ We understand you may have questions about the production and other aspects of o
 
 We offer multiple ways to personalize your products and make your brand shine. All shoes and products can be **engraved with your logo or brand name**, including the sole and insole.
 
-There’s a one-time cost to create custom metal stamps for your brand, which will be used on all your future orders. You can choose to create these stamps during your first order —and we’ll assist you through the process. Alternatively, if you prefer not to pay for the stamps upfront, you can order your first samples **unlabeled**, without any branding.&#x20;
+There’s a one-time cost to create custom metal stamps for your brand, which will be used on all your future orders. You can choose to create these stamps during your first order —and we’ll assist you through the process. Alternatively, if you prefer not to pay for the stamps upfront, you can order your first samples **unlabeled**, without any branding.
 
 You’ll be able to decide this during checkout of your first order. Learn more about how to develop your [Custom Stamps](admin-backoffice/submit-a-new-order/develop-custom-stamps.md)
 
-As a partner, you can also customize your products in other ways, such as private-label **packaging**, custom **materials**, **embroideries**,  and **accessories**, etc. Additionally, you can customize the **design tool’s appearance** to match your brand, offering a consistent experience for your customers.
+As a partner, you can also customize your products in other ways, such as private-label **packaging**, custom **materials**, **embroideries**, and **accessories**, etc. Additionally, you can customize the **design tool’s appearance** to match your brand, offering a consistent experience for your customers.
 
 Learn more about all options and possibilities on the [Additional Customization article](production/order-customization.md).
 
@@ -155,13 +155,13 @@ For more information on how to get over the basic setup, please, check [Set Up C
 [set-up-your-company-data](advanced-configuration/set-up-your-company-data/)
 {% endcontent-ref %}
 
-## Your First Sample&#x20;
+## Your First Sample
 
 ![Designing and checkout process of an MTO order](https://i.gyazo.com/d7c1bca37c04cd22b92dfa30d9e983e8.gif)
 
 Now that the [Basic Setup](getting-started-2.md#account-setup) of your account is finished, and you have a basic understanding of the [Admin Backoffice](admin-backoffice/designing-tools-and-galleries/#the-backoffice) and [Designing Tools](admin-backoffice/designing-tools-and-galleries/#3d-designing-tool), you can submit your first MTO sample order to production.
 
-To continue, please read our full article [How To Submit a New Order](admin-backoffice/submit-a-new-order/), to learn about the design, checkout and payment  processes:
+To continue, please read our full article [How To Submit a New Order](admin-backoffice/submit-a-new-order/), to learn about the design, checkout and payment processes:
 
 {% content-ref url="admin-backoffice/submit-a-new-order/" %}
 [submit-a-new-order](admin-backoffice/submit-a-new-order/)
@@ -178,4 +178,3 @@ Now that you've set up your account, explored your tools, and placed your first 
 * **Get Personalized Support**: Need further assistance? **Schedule a meeting** with your **dedicated account manager** for tailored guidance or simply reach out through our support system.
 
 Feel free to explore and start building your brand with ease. We’re here to support you!
-

@@ -26,14 +26,14 @@ description: >-
 In this guide we will help you access your admin backoffice and design tools, set up your account, and submit your first MTO sample order.
 
 {% hint style="warning" %}
-&#x20;**Don't have an account yet?** [Contact us](https://help.bespokefactory.com/get-help/contact-us) to get started
+**Don't have an account yet?** [Contact us](https://help.bespokefactory.com/get-help/contact-us) to get started
 {% endhint %}
 
 ## Access Your Tools
 
 <figure><img src=".gitbook/assets/tools2.jpg" alt=""><figcaption></figcaption></figure>
 
-First, the **Admin Backoffice** is the place where you will manage orders, payments, invoices, and track order status.&#x20;
+First, the **Admin Backoffice** is the place where you will manage orders, payments, invoices, and track order status.
 
 {% hint style="info" %}
 Access the backoffice at [https://backoffice.made-to-order.com](https://backoffice.made-to-order.com) and log in with your credentials.
@@ -41,9 +41,9 @@ Access the backoffice at [https://backoffice.made-to-order.com](https://backoffi
 
 From the **main menu** you’ll also be able to access all tools and platforms:
 
-* **3D Designing Tool:** your private labeled 3D tool to browse our full catalog, design, and submit your orders.  [Learn more](admin-backoffice/designing-tools-and-galleries/3d-designing-tool.md)
+* **3D Designing Tool:** your private labeled 3D tool to browse our full catalog, design, and submit your orders. [Learn more](admin-backoffice/designing-tools-and-galleries/3d-designing-tool.md)
 * **Get Inspired Platform:** a gallery to explore trending styles and materials. Use these as starting points or inspiration for your brand’s creations. [Learn more](admin-backoffice/designing-tools-and-galleries/get-inspired-gallery.md)
-* **Bazaar Store:** access to additional products and services like custom packaging, shoe trees, and more.  [Learn more](admin-backoffice/designing-tools-and-galleries/services-and-accessories.md)
+* **Bazaar Store:** access to additional products and services like custom packaging, shoe trees, and more. [Learn more](admin-backoffice/designing-tools-and-galleries/services-and-accessories.md)
 
 {% hint style="info" %}
 For more information, please, take a look at our[ Access Your Tools article](getting-started.md#access-your-tools), or contact your account manager.
@@ -56,7 +56,7 @@ For more information, please, take a look at our[ Access Your Tools article](get
 We offer three MTO (single unit) production methods that give you flexibility in balancing speed and customization. Poduct prices start at **99€ per pair**.
 
 * **Standard MTO:** 28-30 days production.
-* **Fastlane MTO:** 6-8 days production. [Learn more](production/pricing-and-production-methods/fast-lane.md)
+* **Fastlane MTO:** average production time of 7 business days. During peak season — April to July and December — this may increase to up to 10 business days. [Learn more](production/pricing-and-production-methods/fast-lane.md)
 * **Rush MTO:** 2 days production. [Learn more](production/pricing-and-production-methods/48h-rush-production.md)
 
 For **BULK & MINI-BULK** orders (MOQ of 10 pairs), production takes around **8 weeks,** and the cost starts at **59€ per pair.**
@@ -69,7 +69,7 @@ For more information, please, take a look at our [Pricing & Production Methods](
 
 <figure><img src=".gitbook/assets/yourbrand (2).jpg" alt=""><figcaption></figcaption></figure>
 
-You can add **your brand name** or **logo** to your products by engraving them. To do this, we will need to produce a **set of metal stamps** (one-time cost) that will be used for all your future orders.&#x20;
+You can add **your brand name** or **logo** to your products by engraving them. To do this, we will need to produce a **set of metal stamps** (one-time cost) that will be used for all your future orders.
 
 But don't worry about it. **We will help you design your stamps** during your **first order**. [Learn more about custom stamps.](admin-backoffice/submit-a-new-order/develop-custom-stamps.md)
 
@@ -77,7 +77,7 @@ But don't worry about it. **We will help you design your stamps** during your **
 We have lots of **additional** **customization** and **personalization features** for your brand to be unique. For more information please visit our [Additional Customizations](production/order-customization.md) article, or **contact your account manager**.
 {% endhint %}
 
-## Custom Packaging&#x20;
+## Custom Packaging
 
 <figure><img src=".gitbook/assets/packaging (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -121,7 +121,7 @@ We operate on a monthly subscription basis. For **€95 per month**, you get acc
 
 <details>
 
-<summary>Subscription Promo  📣  15 Days Trial + Free Shoe Trees for every order</summary>
+<summary>Subscription Promo 📣 15 Days Trial + Free Shoe Trees for every order</summary>
 
 Subscribe and enjoy a **15-day free trial,** where you can place unlimited orders and have full access to all our services, completely free of charge. If you decide to **cancel** during the trial, you won’t be charged at all. Plus, for every order you place during the trial, **you'll receive a custom shoe tree** for free!
 
@@ -169,7 +169,7 @@ Read our step-by-step tutorial on [How To Submit a New Order](admin-backoffice/s
 
 ## What to Do Next
 
-Now that you've set up your account, explored the tools, and placed your first order, you're all set to take the next steps in growing your brand.&#x20;
+Now that you've set up your account, explored the tools, and placed your first order, you're all set to take the next steps in growing your brand.
 
 Here are some helpful tips and resources to guide you forward:
 
@@ -185,9 +185,6 @@ Here are some helpful tips and resources to guide you forward:
 * **Terms and Conditions**: Review our terms and conditions for using the platform. [Learn More](https://mto.bespokefactory.com/terms/)
 * **Manage Your Subscription**: review your subscription status and invoices, or subscribe to keep using the platform. [Learn More](advanced-configuration/partnership-subscription.md)
 
-
-
 {% hint style="success" %}
 **Need help?** Contact your account manager or schedule a meeting with them
 {% endhint %}
-

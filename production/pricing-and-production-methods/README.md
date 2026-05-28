@@ -7,7 +7,7 @@ We provide brands with a versatile and comprehensive private label production so
 * Using your own label, you will be able to produce with us from **one single unit** (Made-to-Order) to BULK orders (**small batches**).
 * Our default **MTO / BULK** styles catalog includes dozens of shoe styles and accessories, like Derby Shoes, Sneakers, Chelsea Boots, Slippers, Duffle Bags, Cigar Cases, etc.
 * Each of those base styles can be customized and ordered with a large amount of variables: shoe lasts, materials, sole units, etc. We estimate that +60 Billion different designs can be accomplished using our base offer.
-* We also also offer a **rapid** MTO production service called [FastLane](fast-lane.md). Fully private labeled Goodyear Welted shoes, handcrafted using our own partially pre-produced units in stock. Blazing fast production time (**6-10 business days**), but limited customizing features.
+* We also also offer a **rapid** MTO production service called [FastLane](fast-lane.md). Fully private labeled Goodyear Welted shoes, handcrafted using our own partially pre-produced units in stock. Average production time is **7 business days**. During peak season — **April to July** and **December** — it may increase to **up to 10 business days**.
 * Additionally, we now offer [**48h Rush**](48h-rush-production.md) , the fastest private-label production service in our portfolio, delivering shoes in just 2-3 business days. This service provides limited customization and uses pre-produced components, offering quick turnaround without compromising on quality.
 * Besides the above, if you are looking to order **BULK (small batches)** to create your own Ready-to-Wear collections, we can also help you develop and produce your own custom styles, with custom shoe patterns, custom shoe lasts, custom materials, etc.
 
@@ -27,9 +27,9 @@ You can customize and submit single orders using your [3D Designing platform](..
 
 ### Fast Lane (Single Orders)
 
-‘FastLane’ is a rapid Made-to-Order production service for individual (single) MTO Goodyear Welted orders. **Blazing fast production time (6-10 business days), but with a slightly limited number of customizing options.**
+‘FastLane’ is a rapid Made-to-Order production service for individual (single) MTO Goodyear Welted orders. **Average production time is 7 business days**, but with a slightly limited number of customizing options.
 
-Shoe parts are partially pre-produced on our side. They are kept in-stock in our warehouse, and then finished after your order. Fully private labeled Made-to-Order Goodyear Welted shoes in just 6-10 business days. Lear more about [Fastlane](fast-lane.md).
+Shoe parts are partially pre-produced on our side. They are kept in-stock in our warehouse, and then finished after your order. Fastlane orders average **7 business days** in production. During peak season — **April to July** and **December** — production time may increase to **up to 10 business days**. Production is handmade, so some orders may take less time and some may take more. Learn more about [Fastlane](fast-lane.md).
 
 #### How To Submit 'FastLane' orders?
 
@@ -73,10 +73,10 @@ Without any development on your side, you are entitled to customize and produce 
 
 Lastly, we can also help you develop and produce your own **Custom Styles:** custom shoe patterns, shoe lasts, etc. These could be developed exclusively for you.
 
-|      Styles     | <p>MTO</p><p>(custom single order)</p> | <p>BULK </p><p>(batch order)</p> |
-| :-------------: | :------------------------------------: | :------------------------------: |
-| Our Base Styles |                 **YES**                |              **YES**             |
-|  Custom Styles  |                **YES\***               |             **YES\***            |
+|      Styles     | <p>MTO</p><p>(custom single order)</p> | <p>BULK</p><p>(batch order)</p> |
+| :-------------: | :------------------------------------: | :-----------------------------: |
+| Our Base Styles |                 **YES**                |             **YES**             |
+|  Custom Styles  |                **YES\***               |            **YES\***            |
 
 \*Specific MOQ and initial setup / development costs might be required
 
@@ -98,7 +98,7 @@ In addition to the previously mentioned styles, we will be glad to [**develop an
 
 ## Manufacturing Prices
 
-All  manufacturing prices are shown in EUROS. Shipping costs are not included. Also, VAT/TAX (if applicable) is excluded.
+All manufacturing prices are shown in EUROS. Shipping costs are not included. Also, VAT/TAX (if applicable) is excluded.
 
 ### Dynamic MTO & BULK Prices
 
@@ -130,7 +130,7 @@ You can [review live manufacturing status of your orders](../../admin-backoffice
 
 ### MTO Orders
 
-The average turnaround time for Standard MTO orders is approximately 4 weeks for shoes. For [Fastlane](fast-lane.md) MTO orders turnaround time is 6-8 days.
+The average turnaround time for Standard MTO orders is approximately 4 weeks for shoes. For [Fastlane](fast-lane.md) MTO orders, the average production time is 7 business days. During peak season — April to July and December — production time may increase to up to 10 business days. As all production is handmade, some orders may take less time and some may take more.
 
 Additionally, bear in mind that some extra customizations (ie. having your initials engraved on the heel) and artisan methods (ie. hand made patina finishing) are more time consuming, and might result on extra manufacturing time.
 
@@ -139,4 +139,3 @@ When the order is finished, we will ship it to the provided shipping address. Yo
 ### BULK Orders
 
 The average turnaround time for BULK orders is approximately 8 weeks. Special requirements and specific turnaround times might apply, please [contact us](../../get-help/contact-us.md).
-

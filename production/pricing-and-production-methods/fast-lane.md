@@ -1,12 +1,14 @@
 ---
-description: Customized shoes and accessories in just 6-10 business days
+description: >-
+  Customized shoes and accessories with an average production time of 7 business
+  days
 ---
 
 # Fastlane Production
 
 ## What is Fastlane?
 
-Fastlane is a custom production service for single MTO orders. **Blazing fast production time (6-10 business days) and dozens of goodyear welted shoe styles, sneakers and other items to be customized with a wide range of materials, sole units, welt styles, shoe lasts, etc.**
+Fastlane is a custom production service for single MTO orders. It offers an average production time of **7 business days**. During peak season — **April to July** and **December** — production time may increase to **up to 10 business days**.
 
 Fastlane items are partially pre-produced on our side and kept in stock in our warehouse to be finished after your order. That's the only reason we can offer such a fast turnaround time.
 
@@ -16,21 +18,31 @@ Fastlane is just faster than a Stadard MTO order, but both are virtually identic
 
 ### **Blazing Fast Production**
 
-Fastlane orders can be produced in just 6-10 business days thanks to the availability of partially pre-produced stock in our warehouse.
+Fastlane orders have an average production time of **7 business days** thanks to the availability of partially pre-produced stock in our warehouse. During peak season, production time may increase to **up to 10 business days**.
+
+### **Fastlane production time**
+
+Fastlane orders are produced by hand, so turnaround times are always **averages**.
+
+The average production time for Fastlane orders is **7 business days**.
+
+During peak season — **April to July** and **December** — production time may increase to **up to 10 business days**.
+
+Some orders may take less time. Some may take more. That is normal in a handmade production process.
 
 ### **Private Label & Branding**
 
-Fastlane orders can be engraved as usual with your brand name or logo on the insole and outsole. If you have already developed stamps for the MTO program, they will be re-used for FastLane orders.&#x20;
+Fastlane orders can be engraved as usual with your brand name or logo on the insole and outsole. If you have already developed stamps for the MTO program, they will be re-used for FastLane orders.
 
 Additionally, you can develop private label packaging and accessories like shoe boxes, dust bags, shoe horns, shoe care kits, etc.
 
 ### **Hybrid MTO Production**
 
-Fastlane item parts are partially pre-produced in advance and stocked in our warehouse.&#x20;
+Fastlane item parts are partially pre-produced in advance and stocked in our warehouse.
 
-For instance, Goodyear shoes: upper cuts are sewed and kept ready to be molded over the last. Once the order is paced, the upper is lasted and attached to the sole unit selected.&#x20;
+For instance, Goodyear shoes: upper cuts are sewed and kept ready to be molded over the last. Once the order is paced, the upper is lasted and attached to the sole unit selected.
 
-Each order is then hand painted and finished following your specifications.&#x20;
+Each order is then hand painted and finished following your specifications.
 
 ### **Goodyear Welted. Same Quality**
 
@@ -48,19 +60,17 @@ For Men's dress shoe you will be able to choose between all our shoe lasts: Zuri
 
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2023-09-28 a las 15.27.48.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 ### Available Styles
 
-You can choose between dozens of shoe styles and accessories, and we are constantly adding more.&#x20;
+You can choose between dozens of shoe styles and accessories, and we are constantly adding more.
 
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2023-09-28 a las 15.17.52.jpg" alt=""><figcaption><p>Available Fastlane styles</p></figcaption></figure>
 
 ### Special Styles
 
-Fastlane Special Styles are unique and highly sought-after designs that feature specific material combinations not typically available within the standard Fastlane program. These styles have been curated based on their popularity and distinctive appeal.&#x20;
+Fastlane Special Styles are unique and highly sought-after designs that feature specific material combinations not typically available within the standard Fastlane program. These styles have been curated based on their popularity and distinctive appeal.
 
-While Fastlane Special Styles have certain fixed elements that set them apart, they still offer limited and specific customization options, such as the choice of soles or shoelaces.&#x20;
+While Fastlane Special Styles have certain fixed elements that set them apart, they still offer limited and specific customization options, such as the choice of soles or shoelaces.
 
 These exceptional styles allow you to enjoy the convenience and speed of Fastlane while embracing distinctive materials and designs that have proven to be customer favorites.
 
@@ -96,17 +106,15 @@ This feature is available through Fastlane, so you can order sneakers using any 
 
 In well-constructed shoes, the welt is a strip of leather that runs along the perimeter of the outsole. Its primary function is to attach the upper to the outsole and create greater durability. Our 3 goodyear welt styles are available in Fastlane too.
 
-
-
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2023-09-28 a las 18.18.23 (1).jpg" alt="" width="267"><figcaption></figcaption></figure>
 
 ### Heels
 
 Different heel styles for men dress shoes are also available through Fastlane.
 
-The "Original Heel" provides a classic height of approximately 26 mm (1 inch), delivering timeless elegance.&#x20;
+The "Original Heel" provides a classic height of approximately 26 mm (1 inch), delivering timeless elegance.
 
-With the "Higher Heel" option, you can subtly elevate your look by adding up to 8 mm (0.31 inch) in height, reaching a total of 34 mm (1.34 inches). While the differences are minimal, this choice allows for a touch of extra height without compromising fitting or comfort.&#x20;
+With the "Higher Heel" option, you can subtly elevate your look by adding up to 8 mm (0.31 inch) in height, reaching a total of 34 mm (1.34 inches). While the differences are minimal, this choice allows for a touch of extra height without compromising fitting or comfort.
 
 Lastly, the "Pitched Heel," also known as the "Slanted Heel," introduces a subtle downward slope from the back to the front, enhancing the shoe's sophistication and creating a sharper silhouette for a refined appearance. Each heel style offers its unique charm, ensuring you can find the perfect match for your desired aesthetic and comfort level.
 
@@ -116,13 +124,13 @@ Lastly, the "Pitched Heel," also known as the "Slanted Heel," introduces a subtl
 
 ### Sizes and Widths
 
-In our Fastlane collection, we're delighted to provide an extensive range of sizes to ensure that every customer can enjoy the perfect fit. Our sizing usually spans from 39 EU (6 US) to 48 EU (15 US), offering a broad spectrum to accommodate various foot sizes and preferences. Additionally, we offer both D and EE widths, allowing you to tailor your choice to your individual comfort requirements.&#x20;
+In our Fastlane collection, we're delighted to provide an extensive range of sizes to ensure that every customer can enjoy the perfect fit. Our sizing usually spans from 39 EU (6 US) to 48 EU (15 US), offering a broad spectrum to accommodate various foot sizes and preferences. Additionally, we offer both D and EE widths, allowing you to tailor your choice to your individual comfort requirements.
 
 We maintain a well-stocked inventory of all sizes and styles in our Fastlane collection, however, check our backoffice for updated stock and size availability.
 
 ### Materials & Finishings
 
-When orderning a Fastlane shoes, only a few material choices are available. In the case of Goodyear Welted shoes you can choose between Box Calf and Painted Vitello.&#x20;
+When orderning a Fastlane shoes, only a few material choices are available. In the case of Goodyear Welted shoes you can choose between Box Calf and Painted Vitello.
 
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2023-09-28 a las 18.38.41.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -150,7 +158,7 @@ Only available on Fastlane orders, the new hand painted «Reverse Patina» grace
 
 Look for the Fastlane category on your MTO platform and submit your first order! Styles available for Fastlane production are dynamic, that is, they change over time based on the stock available.
 
-Stock is monitored in real-time to make sure all Fastlane orders are produced in just 6-10 business days. Real-time stock quantity is displayed during designing and checkout processes for each particular style and size combination.&#x20;
+Stock is monitored in real time to support the average Fastlane production time. Real-time stock quantity is displayed during designing and checkout processes for each particular style and size combination.
 
 {% embed url="https://i.gyazo.com/25394e28616b68bd780475373dc0f78a.gif" %}
 
@@ -162,13 +170,13 @@ We will be periodically replacing the stock, and adding new shoe styles to the F
 Remember, **stock is limited, and can fluctuate from the moment you design the shoes and the moment you submit the payment.** We strongly suggest to submit the payment and send the order to production as soon as possible, to avoid out-of-stock issues.
 {% endhint %}
 
-For the rest part, the same design and order process applies, as any Standard MTO item. On the configuration screen you will notice that customizing options are limited compared to the Standard MTO program. If a material or design feature is not there, then it means we can not accomodate that particular option on the Fastlane program.&#x20;
+For the rest part, the same design and order process applies, as any Standard MTO item. On the configuration screen you will notice that customizing options are limited compared to the Standard MTO program. If a material or design feature is not there, then it means we can not accomodate that particular option on the Fastlane program.
 
 ![](https://i.gyazo.com/1176d1707dd0fbae21d7fbf2819a0e78.gif)
 
 ## Behind The Scenes. How It's Done?
 
-Fast Lane shoe parts (uppers and soles) are pre-produced on our side and kept in stock.&#x20;
+Fast Lane shoe parts (uppers and soles) are pre-produced on our side and kept in stock.
 
 Leather is cut and sewed together to create a basic upper. These basic uppers are made of unfinished raw crust leather (no color) in order to be hand painted during the finishing process following the customer requests.
 
@@ -180,9 +188,9 @@ Once a Fast Lane order is placed, it begins its production journey as any other 
 
 ![](https://i.gyazo.com/2e38a3dae722c84af205265c631bbf80.gif)
 
-You can think of Fast Lane as a "turbo-charged" regular MTO order. We stock up on these "unfinished" shoe parts on a daily basis, and offer our partners the possibility to use the stock for rapid MTO production.&#x20;
+You can think of Fast Lane as a "turbo-charged" regular MTO order. We stock up on these "unfinished" shoe parts on a daily basis, and offer our partners the possibility to use the stock for rapid MTO production.
 
-Design options on these Fast Lane orders might be slightly limited if you compare them to the full range of customizing features available for standard MTO orders. But not fur much!&#x20;
+Design options on these Fast Lane orders might be slightly limited if you compare them to the full range of customizing features available for standard MTO orders. But not fur much!
 
 We try very hard to fill the gap between MTO and Fast Lane design options, so these small differences are expected to be reduced over time.
 
@@ -194,9 +202,9 @@ Understandably, we can not accommodate other special designing requests on these
 
 All men's dress Fastlane shoes are handcrafted using Original Goodyear Welted construction.
 
-**What is the difference between a shoe ordered as Standard MTO (4 weeks) vs Fast Lane MTO (6-10 business days)?**&#x20;
+**What is the difference between a shoe ordered as Standard MTO (4 weeks) vs Fast Lane MTO (average 7 business days, and up to 10 business days during peak season)?**
 
-There is none in terms of construction, quality and finishing. However, Fastlane orders are slightly limited in regards of customizing options, if you compare them with a standard MTO order.&#x20;
+There is none in terms of construction, quality and finishing. However, Fastlane orders are slightly limited in regards of customizing options, if you compare them with a standard MTO order.
 
 #### Why can't I customize my shoes with this specific sole, materia, design, layout, ornament, embroidery or any other design option not available in my 3D design tool?
 
@@ -206,7 +214,7 @@ For further customization options, please, place a standard MTO order instead
 
 #### Why can't I mix colors on different shoe pieces?
 
-Due to manufacturing constrains, your are not allowed to mix different colors on the same order. That is, all the pieces of the shoe should be made with the same material, texture and color. &#x20;
+Due to manufacturing constrains, your are not allowed to mix different colors on the same order. That is, all the pieces of the shoe should be made with the same material, texture and color.
 
 It is in our roadmap to allow combination of different patina textures and colors con the same order, stay tuned!
 
@@ -214,7 +222,7 @@ For full customizing options, please, take a look at our standard MTO production
 
 #### The shoe style that I want is not listed for Fast Lane production. How is that?
 
-We are constantly adding and removing styles for Fastlane production, and the number of stocked units is continuously changing. We aim to extend the number of styles available for Fastlane production gradually, adding new shoes and boots based on the interests of our partners.&#x20;
+We are constantly adding and removing styles for Fastlane production, and the number of stocked units is continuously changing. We aim to extend the number of styles available for Fastlane production gradually, adding new shoes and boots based on the interests of our partners.
 
 The styles and sizes that are currently available to order are listed on the Fastlane category. If the shoe style is not listed there, means that is not available for Fastlane production. In that case, please, check our standard MTO production program to submit your order.
 

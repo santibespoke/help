@@ -8,7 +8,7 @@ description: Your private labeled custom shoes in just 48 hours
 
 * 👟 **Ultra-Fast Production**: Shoes are crafted within 48 working hours, starting the next working day after payment confirmation.
 * 🎨 **Simplified Customization**: Focused on speed, with fewer options for materials and features.
-* 🧵 **Material Options**: Luxe Calf + Painted Vitelo leathers, with optional burnishing, and hand-painted patina textures (+1 extra production day).&#x20;
+* 🧵 **Material Options**: Luxe Calf + Painted Vitelo leathers, with optional burnishing, and hand-painted patina textures (+1 extra production day).
 * 🏷️ **Private Label**: All shoes feature your brand's logo on the soles and insoles. You can also add heel initials, a sole signature, and private-label packaging or accessories.
 * ⚒️ **Construction**: Built using Blake Luxury Flex construction on the Zurigo last, with 3 sole styles available.
 * ✅ **Same Quality**: Shoes are crafted with the same premium quality as the Standard MTO service.
@@ -19,7 +19,7 @@ description: Your private labeled custom shoes in just 48 hours
 
 **48h Rush** is a custom production service for made-to-order (MTO) shoes that guarantees an extremely fast turnaround time of just **48 working hours**. This service is available for a select range of **Blake Luxury Flex** men's dress shoes, offering streamlined customization options with a reduced set of materials and features.
 
-**48h Rush** is faster than both **MTO Standard** (3-weeks) and **Fastlane** (1-week), providing a rapid production time while still delivering the same craftsmanship, attention to detail, and high-quality finishes.
+**48h Rush** is faster than both **MTO Standard** (3-weeks) and **Fastlane** (average 7 business days, and up to 10 business days during peak season), providing a rapid production time while still delivering the same craftsmanship, attention to detail, and high-quality finishes.
 
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2024-12-03 a las 17.04.00.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -41,15 +41,13 @@ All 48h Rush styles use **Blake Luxury Flex** shoe construction method. The only
 
 ***
 
-
-
 ## Customizing Options
 
 Since the production process for **48h Rush** is streamlined for speed, customization options are more limited. You can choose from a select range of men’s dress shoe styles, but with a reduced set of materials, soles, and color options. For more extensive customization, we recommend choosing **MTO Standard**.
 
 #### Available Styles
 
-For 48h Rush, we offer the same selection of men's dress shoes already available in Fastlane. We are constantly reviewing and updating the styles based on availability, so be sure to check for the latest options.&#x20;
+For 48h Rush, we offer the same selection of men's dress shoes already available in Fastlane. We are constantly reviewing and updating the styles based on availability, so be sure to check for the latest options.
 
 {% embed url="https://i.gyazo.com/5e1361a1f392d58cfbd5edb7b670b213.gif" %}
 
@@ -97,7 +95,7 @@ Additionally, Burnishing is available as a finishing option, offering a rich, an
 
 #### **Hand Patinted Patina**
 
-**Patina finishing** is also available on 48h Rush, but please note that it will require one additional day of production time.&#x20;
+**Patina finishing** is also available on 48h Rush, but please note that it will require one additional day of production time.
 
 {% embed url="https://i.gyazo.com/08e1247a1c8823a24903de200128b5af.gif" %}
 
@@ -109,7 +107,7 @@ For an added touch of personalization, you can choose to engrave **initials on t
 
 ## Available Sizes
 
-**48h Rush** offers a wide range of sizes, typically from **39 EU (6 US)** to **48 EU (15 US)**, and widths **D** and **EE**.&#x20;
+**48h Rush** offers a wide range of sizes, typically from **39 EU (6 US)** to **48 EU (15 US)**, and widths **D** and **EE**.
 
 Please use our **real-time stock availability widget** to check the current availability of specific sizes and styles.
 
@@ -131,7 +129,7 @@ We will be periodically replacing the stock, and adding new shoe styles to the F
 Remember, **stock is limited, and can fluctuate from the moment you design the shoes and the moment you submit the payment.** We strongly suggest to submit the payment and send the order to production as soon as possible, to avoid out-of-stock issues.
 {% endhint %}
 
-For the rest part, the same design and order process applies, as any Standard MTO item. On the configuration screen you will notice that customizing options are limited compared to the Standard MTO program. If a material or design feature is not there, then it means we can not accomodate that particular option on the 48h Rush program.&#x20;
+For the rest part, the same design and order process applies, as any Standard MTO item. On the configuration screen you will notice that customizing options are limited compared to the Standard MTO program. If a material or design feature is not there, then it means we can not accomodate that particular option on the 48h Rush program.
 
 {% embed url="https://i.gyazo.com/a885d0f6126f23b44134ad426cd3e69d.gif" %}
 
@@ -147,13 +145,13 @@ Yes, 48h Rush orders will feature your brand's logo on both the insole and outso
 
 **How does the 48-hour production time work?**
 
-Once we receive your order and payment, production starts on the **next working day**, and your shoes will be completed within the following **two working days**. For example, if we receive your order on Monday, production will begin Tuesday, be completed Wednesday, and ready by Thursday morning.&#x20;
+Once we receive your order and payment, production starts on the **next working day**, and your shoes will be completed within the following **two working days**. For example, if we receive your order on Monday, production will begin Tuesday, be completed Wednesday, and ready by Thursday morning.
 
 Please note, the 48-hour timeframe covers only the production part, starting the next working day after the order is confirmed by the factory, and ending when the production is completed, two working days later. Fulfillment and delivery times are excluded and may vary.
 
-**How does 48h Rush differ from MTO Standard or Fastlane?**&#x20;
+**How does 48h Rush differ from MTO Standard or Fastlane?**
 
-The primary difference is the production speed. 48h Rush is designed for faster turnaround times (48 working hours), while MTO Standard offers full customization options with a longer production timeline, and Fastlane allows slightly more customization with a faster 6-8 day production time.
+The primary difference is the production speed. 48h Rush is designed for faster turnaround times (48 working hours), while MTO Standard offers full customization options with a longer production timeline, and Fastlane allows slightly more customization with an average production time of 7 business days, and up to 10 business days during peak season.
 
 #### Why can't I customize my shoes with all the options available in the Standard MTO program?
 
